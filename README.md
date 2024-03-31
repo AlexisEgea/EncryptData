@@ -38,3 +38,11 @@ DecodeData and EncodeData can be executed on IDEs by passing parameters like `pa
 
 * The aim of this project is to exclusively protect a cell with the identification point being the cell in the previous column with the name "Password".   
 It would be more interesting and comprehensive to avoid identification by "Password" but rather by a variable containing a dynamic value set by the user or another means of identification.
+
+## Contact Information
+
+ For inquiries or feedback, please contact Alexis EGEA at [alexisegea@outlook.com](mailto:alexisegea@outlook.com).
+
+## Copyright
+
+© 2024 Alexis EGEA. All Rights Reserved.
