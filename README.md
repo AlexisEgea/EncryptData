@@ -15,6 +15,11 @@
 
 ### On Ubuntu:
 
+To execute a .sh Script:  
+   1. Open a terminal.  
+   2. Run the command `chmod +x script_name.sh` to make the script executable.  
+   3. Execute the script by running `./script_name.sh`.  
+
 #### encodeData.sh  
 
 * Creates the directory Bin/.
